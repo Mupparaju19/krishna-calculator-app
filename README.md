@@ -3,7 +3,11 @@
 
 ## Project Overview
 
-**Divine Power Calculator** is a simple yet powerful web-based application that calculates the result of raising a base number to a given power (exponentiation). It allows users to enter a base number and an exponent to compute the power and display the result. The project is built using pure frontend technologies (HTML, CSS, JavaScript) and is hosted using **GitHub Pages**.
+**Divine Power Calculator** is a simple yet powerful web-based application that calculates the result of raising a base number to a given power (exponentiation). It allows users to enter a base number and an exponent to compute the power and display the result. The project is built using pure frontend technologies (HTML, CSS, JavaScript) and is hosted using 
+**GitHub Pages**
+GitHub Pages is a free tool that lets you create and host simple websites directly from a GitHub repository. It's perfect for showcasing your 
+projects, portfolios, or blogs. You don't need any server-side code, and it's easy to set up with automatic security features like HTTPS (SSL). 
+You just need to upload your files to GitHub, and your site goes live!
 
 This application serves as a hands-on example of creating dynamic and responsive user interfaces with basic web technologies.
 
