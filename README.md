@@ -1,6 +1,3 @@
-Certainly! Below is a more **advanced and detailed version** of the **README.md** for your project, incorporating additional sections like features, technologies, setup, and deployment instructions. This version will provide a professional look for your GitHub repository:
-
----
 
 # Divine Power Calculator - Web Application
 
@@ -9,9 +6,6 @@ Certainly! Below is a more **advanced and detailed version** of the **README.md*
 **Divine Power Calculator** is a simple yet powerful web-based application that calculates the result of raising a base number to a given power (exponentiation). It allows users to enter a base number and an exponent to compute the power and display the result. The project is built using pure frontend technologies (HTML, CSS, JavaScript) and is hosted using **GitHub Pages**.
 
 This application serves as a hands-on example of creating dynamic and responsive user interfaces with basic web technologies.
-
-### Live Demo
-[Check out the live demo here](https://mupparaju19.github.io/krishna-grocery-app).
 
 ## Features
 
@@ -34,15 +28,14 @@ The following technologies were used to build this application:
 ## Screenshots
 
 ### 1. App Interface
-![App Screenshot](https://github.com/mupparaju19/krishna-grocery-app/blob/main/screenshots/app-interface.png)
+
 
 ### 2. Example Calculation
-![App Screenshot](https://github.com/mupparaju19/krishna-grocery-app/blob/main/screenshots/calculation-example.png)
 
 ## How to Use
 
 1. Open the application using this URL:  
-   [Divine Power Calculator](https://mupparaju19.github.io/krishna-grocery-app)
+   [Divine Power Calculator](https://mupparaju19.github.io/krishna-calculator-app)
 
 2. **Enter Base Number**: Input the base number (e.g., `2`).
 3. **Enter Exponent**: Input the exponent (e.g., `5`).
@@ -73,12 +66,12 @@ For example:
 
 1. **Clone the Repository**: Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/mupparaju19/krishna-grocery-app.git
+   git clone https://github.com/mupparaju19/krishna-calculator-app.git
    ```
 
 2. **Navigate to the Project Folder**:
    ```bash
-   cd krishna-grocery-app
+   cd krishna-calculator-app
    ```
 
 3. **Open the `index.html` File**:
@@ -100,7 +93,7 @@ The application is deployed using **GitHub Pages**. Here's how the deployment wa
 3. **Access the Live URL**:
    - After a few minutes, GitHub Pages will provide a URL where your app is live:
      ```text
-     https://mupparaju19.github.io/krishna-grocery-app
+     https://mupparaju19.github.io/krishna-calculator-app
      ```
 
    - This URL is where the app can be accessed publicly.
